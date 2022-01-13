@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Hejociara/Hejociara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hejociara&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hejociara&layout=compact)
