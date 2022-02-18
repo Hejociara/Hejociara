@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Hejociara do Vale
 
 - 🌱 I’m currently learning java
-- 📫 How to reach me: hejociara@gmail.com || Whatsapp: +5591985015565
+- 📫 How to reach me: hejociarav@gmail.com || Whatsapp: +5591985015565
 
 
 
