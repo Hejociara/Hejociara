@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on as a language teacher 
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Java
-- 📫 How to reach me: hejociarav@gmail.com || Whatsapp: +5591985015565 || <div> <a href="https://www.linkedin.com/in/hejociara-do-vale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
-<a href="whatsapp://send?text=TITULO &ndash; https://wa.me/5591985015565" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
+- 📫 How to reach me: hejociarav@gmail.com || Whatsapp: +5591985015565 || <div> <a href="https://www.linkedin.com/in/hejociara-do-vale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="whatsapp://send?text=TITULO &ndash; https://wa.me/5591985015565" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
+</div>
 
 
 ### Techinologies & Tools 
