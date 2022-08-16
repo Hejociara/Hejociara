@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Java
 - 📫 How to reach me: hejociarav@gmail.com || Whatsapp: +5591985015565 || Linkedin: https://www.linkedin.com/in/hejociara-do-vale/
 <div>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/hejociara-do-vale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ### Techinologies & Tools 
