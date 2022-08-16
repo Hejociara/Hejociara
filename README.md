@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Hejociara do Vale
 
-- 🌱 I’m currently learning java
+- 🌱 I’m improving my skills in Java
 - 📫 How to reach me: hejociarav@gmail.com || Whatsapp: +5591985015565
 
 
