@@ -14,5 +14,3 @@
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hejociara&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hejociara&layout=compact)
