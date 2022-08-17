@@ -15,3 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hejociara&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hejociara&layout=compact)
+ outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
