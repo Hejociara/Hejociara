@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome to my Github profile.
-### My name is Hejociara and my nickname is "Josy"!
+### My name is Hejociara
 
 - 🔭 I’m currently working on as a language teacher 
 - 🌱 I’m currently learning Java
