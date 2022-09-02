@@ -1,4 +1,4 @@
-### 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile.
 ### My name is Hejociara
 
 - 🔭 I’m currently working on as a language teacher 
