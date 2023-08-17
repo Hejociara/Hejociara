@@ -10,7 +10,7 @@
 ### Techinologies & Tools 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?t=st=1692231981~exp=1692232581~hmac=15eea20eb3dd06937640bdc4a9b0ef505a06d2b0fd59fe82f3083a2a5078a4eb" width="40" height="40"/> 
-<img src="https://www.freepik.com/free-icon/css_15116759.htm#query=css3%20icon&position=0&from_view=search&track=ais" width="40" height"/>
+<img src="[https://www.freepik.com/free-icon/css_15116759.htm#query=css3%20icon&position=0&from_view=search&track=ais](https://img.freepik.com/free-icon/css_318-698167.jpg?t=st=1692233001~exp=1692233601~hmac=cbb51c4a8af6c93f291da82617a281bf481f658aab49642dcf1261349373c501)" width="40" height"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></p>
           
