@@ -3,8 +3,8 @@
 
 - 🔭 I'm looking for a job in front-end 
 - 🌱 I’m improving my skills in Html and CSS
-- 📫 How to reach me: <hejociarav@gmail.com> || <div><a href="https://api.whatsapp.com/send?phone=5591985276289"><img src="https://img.freepik.com/free-icon/whatsapp_318-183437.jpg?t=st=1692233201~exp=1692233801~hmac=99ea0ca31d2f5b53a552265cc15f71439cce9057b69c0e4bc4b863b9b726c3c6" width="20" height="20" target="_blank"></a></div>
-<div> <a href="https://www.linkedin.com/in/hejociara-carneiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+- 📫 How to reach me: <hejociarav@gmail.com> || <div><a href="https://api.whatsapp.com/send?phone=5591985276289"><img src="https://img.freepik.com/free-icon/whatsapp_318-183437.jpg?t=st=1692233201~exp=1692233801~hmac=99ea0ca31d2f5b53a552265cc15f71439cce9057b69c0e4bc4b863b9b726c3c6" width="20" height="20" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hejociara-carneiro" target="_blank"><img src="https://www.freepik.com/free-icon/linkedin_14076699.htm#query=linkedin%20icon&position=4&from_view=search&track=ais" width="20" height="20" target="_blank"></a> </div>
 
 
 ### <strong>Techinologies & Tools</strong> 
