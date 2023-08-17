@@ -4,8 +4,7 @@
 - 🔭 I'm looking for a job in front-end 
 - 🌱 I’m improving my skills in Html and CSS
 - 📫 How to reach me: <hejociarav@gmail.com> || Whatsapp: +5591981135472 ||
-<div> <a href="https://www.linkedin.com/in/hejociara-carneiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
-<svg xmlns="http://www.w3.org/2000/svg"></svg>
+<div> <a href="https://www.linkedin.com/in/hejociara-carneiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?t=st=1692231981~exp=1692232581~hmac=15eea20eb3dd06937640bdc4a9b0ef505a06d2b0fd59fe82f3083a2a5078a4eb"> </div>
 
 
 ### Techinologies & Tools 
