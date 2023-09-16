@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile
-### My name is Hejociara
+<h1>👋 Hello! Welcome to my Github profile</h1>
+<h2>My name is Hejociara</h2> 
 
 - 🔭 I'm looking for a job in front-end 
 - 🌱 I’m improving my skills in Html and CSS
